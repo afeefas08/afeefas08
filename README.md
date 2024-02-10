@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afeefas08
+- 👋 Hi, I’m Afeefa
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML,CSS
 - 📫 How to reach me-via email at [afeefas008@gmail.com].
