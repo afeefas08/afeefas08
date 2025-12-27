@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Afeefa
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning full stack development and Machine Learning
 - 📫 How to reach me-via email at [afeefas008@gmail.com].
 
 <!---
