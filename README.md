@@ -1,9 +1,51 @@
-- 👋 Hi, I’m Afeefa
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack development and Machine Learning
-- 📫 How to reach me-via email at [afeefas008@gmail.com].
+# Hi, I'm Afeefa 👋
 
-<!---
-afeefas08/afeefas08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Data-Driven Full Stack Developer**
+🚀 Passionate about building intelligent, real-world web applications
+
+---
+
+## 🔹 About Me
+
+* 🎓 B.Sc Computer Science Graduate
+* 🌱 Currently focusing on **Full Stack Development (React + Django)**
+* 📊 Interested in **Data Science & Machine Learning**
+* 💡 I love combining **data + web** to build impactful solutions
+
+---
+
+## 🔹 Tech Stack
+
+### 🌐 Frontend
+
+* HTML, CSS, JavaScript
+* React.js
+* Tailwind CSS
+
+### ⚙️ Backend
+
+* Django
+* PostgreSQL
+
+### 📊 Data & ML
+
+* Python
+* NumPy, Pandas, Matplotlib
+* Machine Learning
+* Deep Learning (CNN, ANN, NLP, LSTM)
+
+---
+
+## 🔹 Currently Working On
+
+* Full Stack Projects (React + Django)
+* Improving problem-solving using Python
+* Building production-ready applications
+
+---
+
+## 🔹 Connect With Me
+
+* 💼 LinkedIn: (Add your link here)
+* 📧 Email: (Add your email here)
+
