@@ -46,6 +46,6 @@
 
 ## 🔹 Connect With Me
 
-* 💼 LinkedIn: (Add your link here)
-* 📧 Email: (Add your email here)
+* 💼 LinkedIn: https://linkedin.com/in/afeefas
+* 📧 Email: afeefas008@gmail.com
 
